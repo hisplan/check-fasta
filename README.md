@@ -1,6 +1,6 @@
 # check-fasta
 
-[FASTA guidelines](https://github.com/hisplan/seqc-custom-genes/blob/master/docs/user-instructions.md) for SEQC Transgenes
+[FASTA guidelines](https://mskcc.box.com/s/tg3m8zg66rubkseokc45pn5a11w6sjz0) for SEQC Transgenes
 
 ## How to Run
 
